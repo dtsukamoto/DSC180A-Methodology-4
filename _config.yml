@@ -1,12 +1,6 @@
-# _config.yml
-title: DSC180A Methodology 4     # Your site title
+title: DSC180A Methodology 4    
 description: "Course project site for DSC180A Methodology 4"
-url: "https://dtsukamoto.github.io/DSC180A-Methodology-4/"  # Your GitHub Pages URL
-baseurl: "/DSC180A-Methodology-4"    # Repository name for project pages
+url: "https://dtsukamoto.github.io/DSC180A-Methodology-4/" 
+baseurl: "/DSC180A-Methodology-4"  
 theme: minima
-author:
-  name: David Tsukamoto
-  email: dtsukamoto@ucsd.edu
 
-# Optional settings
-markdown: kramdown
